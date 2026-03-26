@@ -2,11 +2,7 @@
 
 > A modern, full-stack web application to track, manage, and analyze your personal finances.
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/Expense-tracker-MERN-?style=social)
-![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/Expense-tracker-MERN-)
-![Pull Requests](https://img.shields.io/github/issues-pr/YOUR_USERNAME/Expense-tracker-MERN-)
-![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/Expense-tracker-MERN-)
+
 
 ## 📖 Overview
 
